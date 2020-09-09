@@ -1,0 +1,10 @@
+#newTask{
+width: 600px;
+}
+#addButton{
+margin-left: 40px;
+}
+.centered-form{
+max-width: 700px;
+margin: 40px auto 40px auto;
+}
